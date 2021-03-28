@@ -1,4 +1,10 @@
-> This repository implements Video Synopsis based on (https://github.com/anushkadhiman/ObjectTracking-DeepSORT-YOLOv3-TF2) repository
+> This repository implements Video Synopsis 
+### Steps
+1. Object Tagging from Video
+	1. based on (https://github.com/anushkadhiman/ObjectTracking-DeepSORT-YOLOv3-TF2) repository
+2. Summarization of Video from Tag Data
+	1. Method 1 Based on (https://github.com/lerker/OpenSourceVS)
+	2. Method 2 Custom with (https://github.com/ufukozkanli/Indevo.VideoContentAnalysis/blob/main/codes/extent/embed/video_summary.py)
 
 # 1. Video Özetleme
 > Video özeti (Video synopsis), uzun bir videonun kısa bir video özetini oluşturmak için bir yaklaşımdır. Hareketli nesneler (kişi,araç,vs..) izlenir , analiz edilir ve video akışları nesneler ve etkinliklerden oluşan bir veriye dönüştürülür.  
