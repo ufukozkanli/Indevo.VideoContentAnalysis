@@ -3,7 +3,9 @@
 Teknolojide video gözetimi (video surveillance) alanında bir çok özel uygulamalar vardır. CCTV (kapalı devre televizyon) kameralarının kullanımındaki artışa rağmen, kaydedilen görüntülerin özetlenmesi hala maliyetli , emek ve zaman yoğun bir iştir.
 
 ![Fig1](https://i.ibb.co/Wpn3HhL/image.png)
+
 *Fig. Video Özeti Kavramsal*
+
 # 2 Application Use Cases
 1. Video Kaydı Yapmak (DVR-NVR)
 	1. Kamera, işlemci birimi ve depolama aygıtı ile görüntü kaydı yapmak/saklamak(lokal sunucu)
@@ -17,9 +19,9 @@ Teknolojide video gözetimi (video surveillance) alanında bir çok özel uygula
 		1. Örn: A kişisi  t zamanından t+x zamanına kadar video içerisinde X,Y pixel karesinde gibi..
 	3. Video olarak özetleyebilmek ([Örnek Video Özeti Çalışması](https://www.youtube.com/watch?v=oezU4SkQFkU&ab_channel=BriefCam))
   
-![VideoSummary](https://i.ibb.co/52pxM1B/image.png)
-  
-  *Fig Sample Summary*
+![Fig2](https://i.ibb.co/52pxM1B/image.png)
+
+*Fig. Sample Summary*
 
 ## 1.2. Method
 ### Modules
@@ -34,13 +36,13 @@ Teknolojide video gözetimi (video surveillance) alanında bir çok özel uygula
 4. [Summary and Video Generation] (https://github.com/lerker/OpenSourceVS)
 
 ### Future Works
-1. Performance Improvements (Near Real Time Summarization)
+- [ ] Performance Improvements (Near Real Time Summarization)
 	1. YoloV3->YoloV4
 	2. Optimum object selection in time series for summary
-2. Video Summary Application Development
+- [ ] Video Summary Application Development
 	1. Video Area Restriction
 	2. Video Summary Database Operations
-3. Cloud Service Development
+- [ ] Cloud Service Development
 
 ## References
 1.  Example Videos
