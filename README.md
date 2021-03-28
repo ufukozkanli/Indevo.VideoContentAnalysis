@@ -1,6 +1,7 @@
 # 1. Video Özetleme
 > Video özeti (Video synopsis), uzun bir videonun kısa bir video özetini oluşturmak için bir yaklaşımdır. Hareketli nesneler (kişi,araç,vs..) izlenir , analiz edilir ve video akışları nesneler ve etkinliklerden oluşan bir veriye dönüştürülür.  
 Teknolojide video gözetimi (video surveillance) alanında bir çok özel uygulamalar vardır. CCTV (kapalı devre televizyon) kameralarının kullanımındaki artışa rağmen, kaydedilen görüntülerin özetlenmesi hala maliyetli , emek ve zaman yoğun bir iştir.
+
 ![Fig1](https://i.ibb.co/Wpn3HhL/image.png)
 *Fig. Video Özeti Kavramsal*
 # 2 Application Use Cases
