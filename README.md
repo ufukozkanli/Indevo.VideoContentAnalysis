@@ -55,16 +55,16 @@ Teknolojide video gözetimi (video surveillance) alanında bir çok özel uygula
 ## References
 1.  Example Videos
 	1. [BriefCam Syndex Pro - Review, Research, Respond](https://www.youtube.com/watch?v=oezU4SkQFkU)
-	2.	  [BriefCam for business: Who's clocking out early at BriefCam](https://www.youtube.com/watch?v=lHhqFEeDk08&list=PLWqMrMMWGxu4EVTJx3LWFZuztpii0clhD)
+	2. [BriefCam for business: Who's clocking out early at BriefCam](https://www.youtube.com/watch?v=lHhqFEeDk08&list=PLWqMrMMWGxu4EVTJx3LWFZuztpii0clhD)
 	3. [BriefCam - shoe department - full Video Synopsis](https://www.youtube.com/watch?v=kFViLl9rDC0&list=PLWqMrMMWGxu6BA9DcOkO604IA-TUtuxLK)
 2.  Example Products
 	1. [https://www.proficomms.cz/files/datasheets/Kedacom/KEDACOM%20-%20Technology%20Brief%20-%20Recognitive%20NVR%20(v2.3)%20BF.pdf](https://www.proficomms.cz/files/datasheets/Kedacom/KEDACOM%20-%20Technology%20Brief%20-%20Recognitive%20NVR%20(v2.3)%20BF.pdf)
-	2.  [https://www.mistralsolutions.com/articles/video-synopsis-use-video-surveillance/](https://www.mistralsolutions.com/articles/video-synopsis-use-video-surveillance/)
-	3.  [https://www.genetec.com/solutions/resources/briefcam-video-synopsis-technology-and-security-center-integration](https://www.genetec.com/solutions/resources/briefcam-video-synopsis-technology-and-security-center-integration)  
-	4.  [https://www.convergint.com/app_category/video-synopsis/](https://www.convergint.com/app_category/video-synopsis/)
+	2. [https://www.mistralsolutions.com/articles/video-synopsis-use-video-surveillance/](https://www.mistralsolutions.com/articles/video-synopsis-use-video-surveillance/)
+	3. [https://www.genetec.com/solutions/resources/briefcam-video-synopsis-technology-and-security-center-integration](https://www.genetec.com/solutions/resources/briefcam-video-synopsis-technology-and-security-center-integration)  
+	4. [https://www.convergint.com/app_category/video-synopsis/](https://www.convergint.com/app_category/video-synopsis/)
 3.  Patents
-	1.  [https://patents.google.com/patent/US8311277B2/en](https://patents.google.com/patent/US8311277B2/en)  
-	2.  [https://patents.google.com/patent/US8787730](https://patents.google.com/patent/US8787730)
+	1. [https://patents.google.com/patent/US8311277B2/en](https://patents.google.com/patent/US8311277B2/en)  
+	2. [https://patents.google.com/patent/US8787730](https://patents.google.com/patent/US8787730)
 
 4. Object Tagging & Tracking
 	1. https://medium.com/analytics-vidhya/object-tracking-using-deepsort-in-tensorflow-2-ec013a2eeb4f
@@ -74,6 +74,4 @@ Teknolojide video gözetimi (video surveillance) alanında bir çok özel uygula
 	3. [https://github.com/kevinvincent/DimensionFour](https://github.com/kevinvincent/DimensionFour)
 
 5. Others
-	 1.  [https://github.com/search?o=desc&q=video+synopsis&s=stars&type=Repositories](https://github.com/search?o=desc&q=video+synopsis&s=stars&type=Repositories)
-	
-
+	 1. [https://github.com/search?o=desc&q=video+synopsis&s=stars&type=Repositories](https://github.com/search?o=desc&q=video+synopsis&s=stars&type=Repositories)
