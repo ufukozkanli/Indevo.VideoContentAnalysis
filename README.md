@@ -1,3 +1,5 @@
+> This repository implements Video Synopsis based on (https://github.com/anushkadhiman/ObjectTracking-DeepSORT-YOLOv3-TF2) repository
+
 # 1. Video Özetleme
 > Video özeti (Video synopsis), uzun bir videonun kısa bir video özetini oluşturmak için bir yaklaşımdır. Hareketli nesneler (kişi,araç,vs..) izlenir , analiz edilir ve video akışları nesneler ve etkinliklerden oluşan bir veriye dönüştürülür.  
 Teknolojide video gözetimi (video surveillance) alanında bir çok özel uygulamalar vardır. CCTV (kapalı devre televizyon) kameralarının kullanımındaki artışa rağmen, kaydedilen görüntülerin özetlenmesi hala maliyetli , emek ve zaman yoğun bir iştir.
